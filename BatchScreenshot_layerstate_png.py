@@ -42,5 +42,4 @@ def main ():
             
     rs.MessageBox("All images were added to " + folder,0,"Congrats")
 
-if( __name__ == "__main__" ):
-    main()
+main()
